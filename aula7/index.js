@@ -10,4 +10,4 @@ let anoNascimento;
 anoNascimento = 2022 - idade;
 imc = peso / (altura * altura)
 
-console.log('O IMC é '+ imc + ' e o ano de nascimento é o '+ anoNascimento)
+console.log(`O IMC é ${imc} e o ano de nascimento é o ${anoNascimento}`)
